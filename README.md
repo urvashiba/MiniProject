@@ -5,13 +5,13 @@
 ## About
 
 This Repository contains information about how to run the differential drive robot.
-For controlling the robot using the ROS2(foxy) framework in particular ros2_control and Gazebo Fortress (former Ignition) simulation.
+For controlling the robot I'm using the ROS2(foxy) framework in particular ros2_control and Gazebo Fortress (former Ignition) simulation.
 
 </br>
 
-#### Steps
+### Steps
 
-### Make workspace
+#### Make workspace
 
 ```bash
 mkdir -p ign_ws/src
